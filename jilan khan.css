@@ -1,0 +1,44 @@
+
+.flag{
+	
+	display:flex;
+	
+	
+	
+	
+}
+
+.one{
+	width:600px;
+	height:290px;
+	background-color:green;
+	margin:auto;
+	padding-top:100px;
+	margin-top:50px;
+}
+
+.two{
+	width:150px;
+	height:150px;
+	background-color:red;
+	border:2px solid red;
+	border-radius:300px;
+	margin:auto;
+	
+}
+
+.three{
+	
+	width:5px;
+	height:400px;
+	background-color:black;
+	border-radius:5px;
+	
+	
+	
+	
+}
+
+
+
+
